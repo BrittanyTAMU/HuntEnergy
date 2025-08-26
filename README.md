@@ -57,7 +57,8 @@ Create a .env file in your backend folder with:
 ### Twilio
 TWILIO_ACCOUNT_SID=your_sid_here # look at the dashboard
 TWILIO_AUTH_TOKEN=your_auth_token_here # look at the dashboard
-TWILIO_PHONE_NUMBER=+1234567890   # must be a verified Twilio number in the Twilio console
+TWILIO_PHONE_NUMBER=+1234567890   # under the "My Twilio phone number" in the Twilio dashboard
+ALERT_PHONE=+1234567890 # must be a verified Twilio number in the Twilio console
 
 ### AWS Connect
 AWS_REGION=us-east-1
