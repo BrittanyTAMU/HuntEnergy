@@ -147,3 +147,5 @@ This project was built because I had some extra time at night and wanted to buil
 Not production-ready (yet)
 
 If you run into problems, it’s usually an .ENV variable or AWS permissions thing. Don’t rage quit, just grab some coffee and debug. 
+<img width="472" height="255" alt="image" src="https://github.com/user-attachments/assets/24dd3086-0ec0-4a2a-aacd-b4467dccf9d6" />
+
